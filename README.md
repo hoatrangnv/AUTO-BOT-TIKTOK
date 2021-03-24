@@ -1,4 +1,4 @@
-# AUTO-BOT-TIKTOK
+-------------------------------------------------- Tiktok Auto Bot --------------------------------------------------------
 
 Tự động hóa công việc like , share, comment, follow các tài khoản khác với công cụ tiktok auto bot
 
